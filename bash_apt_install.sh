@@ -20,6 +20,7 @@ PACKAGES=(
     "mediainfo-gui"
     "build-essential"
     "neofetch"
+    "filezilla"
 )
 
 echo "Updating package lists..."
