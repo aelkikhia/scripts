@@ -3,9 +3,10 @@ bash#!/bin/bash
 # Define your list of snap applications here
 APPS=(
     "vlc"
-    "spotify"
-    "slack"
+    "chromium"
     "code --classic"
+    "postman"
+    "sublime-text --classic"
 )
 
 echo "Updating system package list..."
