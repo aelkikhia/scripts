@@ -19,6 +19,7 @@ PACKAGES=(
     "handbrake"
     "mediainfo-gui"
     "build-essential"
+    "neofetch"
 )
 
 echo "Updating package lists..."
