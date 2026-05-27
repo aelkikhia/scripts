@@ -7,6 +7,7 @@ APPS=(
     "code --classic"
     "postman"
     "sublime-text --classic"
+    "plex-desktop"
 )
 
 echo "Updating system package list..."
