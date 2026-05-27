@@ -8,6 +8,7 @@ APPS=(
     "postman"
     "sublime-text --classic"
     "plex-desktop"
+    "makemkv"
 )
 
 echo "Updating system package list..."
