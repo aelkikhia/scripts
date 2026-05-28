@@ -1,4 +1,4 @@
-bash#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 # Exit immediately if a command exits with a non-zero status
 set -e
@@ -14,12 +14,11 @@ PACKAGES=(
     "nodejs"
     "npm"
     "chromium-browser"
-    "chrome"
     "mkvtoolnix-gui"
     "handbrake"
     "mediainfo-gui"
     "build-essential"
-    "neofetch"
+    "fastfetch"
     "filezilla"
 )
 
