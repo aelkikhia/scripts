@@ -13,7 +13,7 @@ PACKAGES=(
     "btop"
     "nodejs"
     "npm"
-    "chromium"
+    "chromium-browser"
     "chrome"
     "mkvtoolnix-gui"
     "handbrake"
