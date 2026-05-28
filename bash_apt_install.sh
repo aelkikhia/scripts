@@ -8,6 +8,7 @@ PACKAGES=(
     "curl"
     "git"
     "vim"
+    "wget"
     "tmux"
     "htop"
     "btop"
@@ -20,6 +21,14 @@ PACKAGES=(
     "build-essential"
     "fastfetch"
     "filezilla"
+    "pkg-config" 
+    "libc6-dev" 
+    "libssl-dev"
+    "libexpat1-dev"
+    "libavcodec-dev" 
+    "libgl1-mesa-dev" 
+    "qt6-base-dev" 
+    "zlib1g-dev"
 )
 
 echo "Updating package lists..."
